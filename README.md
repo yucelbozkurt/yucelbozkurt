@@ -1,3 +1,6 @@
+<!-- Profil Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Merhaba!%20Ben%20Yücel👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # 👋 Merhaba, ben Yücel!
 - 🏛️ Çankırı Karatekin Üniversitesi'nde Bilgisayar Mühendiliği 1. sınıf öğrencisiyim.
 - 🚀 Şu sıralar Python ve Java öğreniyorum.
